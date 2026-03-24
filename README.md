@@ -40,7 +40,7 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/srivarshithdaladuli/Calculator-Using-NodeJS.git
+   https://github.com/Bipinghimire123/calculator-ecr-ecs-along-pipeline-with-loadbalancer.git
 2. **Navigate to the Project Directory:**
 
     ```bash

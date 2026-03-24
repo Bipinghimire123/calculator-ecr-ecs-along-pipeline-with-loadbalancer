@@ -57,3 +57,5 @@ To run the calculator web application, follow these steps:
 
    ```bash
       npm start
+**Architecture diagram**
+![Calculator Screenshot](Architecture-diagram.png)
